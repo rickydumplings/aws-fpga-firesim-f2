@@ -19,7 +19,7 @@ UTILLIB_PATH = $(TOP)/util
 LIB_PATH = $(TOP)/lib
 LIB_SO_PATH = $(LIB_PATH)/so
 
-INCLUDES = -I. -I$(TOPINC_PATH) -I/usr/include
+INCLUDES = -I. -I$(TOPINC_PATH)
 
 # The FPGA_CMD_UNSUPPORTED_FLAGS are unsupported flags that are ignored in F2.
 # Uncomment the following line to acknowledge that your application does not depend on the flags.

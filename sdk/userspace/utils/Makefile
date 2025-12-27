@@ -14,7 +14,7 @@
 #
 
 TOP = ..
-INCLUDES = -I. -I../include -I/usr/include
+INCLUDES = -I. -I../include
 LIB_PATH = $(TOP)/lib
 
 #OPT=-O2
