@@ -10,3 +10,6 @@
     path = hdk/common/shell_stable/hlx
     url = https://github.com/aws/aws-fpga-resources.git
     ignore = dirty
+[submodule "sdk/dma_ip_drivers"]
+	path = sdk/dma_ip_drivers
+	url = https://github.com/Xilinx/dma_ip_drivers
